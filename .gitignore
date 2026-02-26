@@ -1,0 +1,31 @@
+# Checkpoints and model weights
+agri_exp1/
+agri_exp2/
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+*.log
+
+# Report
+AgriSmart_Report.html
+
+# OS
+.DS_Store
+Thumbs.db
+
+# HuggingFace cache
+.cache/
